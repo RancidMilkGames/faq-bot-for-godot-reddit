@@ -1,0 +1,12 @@
+[Unit]
+Description=Godot Reddit Bot
+
+[Service]
+Type=exec
+User=reddit-bot
+WorkingDirectory=/path/to/bot
+ExecStart=/path/to/bot/.venv/bin/python main.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
