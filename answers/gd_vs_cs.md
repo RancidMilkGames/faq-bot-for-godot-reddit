@@ -5,6 +5,7 @@ I have reason to believe from your title that you're looking for the difference 
 If so, welcome to Godot!! This is a very common question, and I'm here to help.
 
 **Pros of GDScript**
+
 * Simple with easy syntax(Syntax resembles python's).
 * Native engine support. All project exports work with it(Desktop/Mobile/Web). Though C# is catching up.
 * More Godot tutorials and resources for learning it.
@@ -12,6 +13,7 @@ If so, welcome to Godot!! This is a very common question, and I'm here to help.
 * Dynamic typing, with optional type hints.
 
 **Pros of C#**
+
 * Faster execution speed. Note API calls are passed to the engine(C++), so you won't necessarily gain speed just using C#. You will notice a difference if you have lots of large calculations/loops or code not making engine calls.
 * More familiar to those coming from Unity or other C# backgrounds and vice versa.
 * Better IDE support, which means better refactoring.
@@ -22,5 +24,4 @@ If so, welcome to Godot!! This is a very common question, and I'm here to help.
 
 If you're ready to start your journey, a great place is with making *Dodge the Creeps*, which [lives in the docs](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html). The docs are your best friend for working with Godot! [AwesomeGodot](https://github.com/godotengine/awesome-godot) is also a great place for assets, projects, tutorials, etc.
 
-**Planned bot features**:
-Provide a list of top and new posts on the topic; Provide answers to other FAQs; Count the number of times GDScript VS C# is mentioned in the past week, as well as total bot replies.)
+**[Contribute to me or report an issue](https://github.com/RancidMilkGames/discord-dev-assistant-bot)**
